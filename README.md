@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Shahed11253color=red)
+![Profile views]
 
 Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
 
