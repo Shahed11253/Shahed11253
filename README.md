@@ -1,7 +1,7 @@
 ![I am Frontend Web Developer](https://github.com/Shahed11253/Shahed11253/blob/main/code.png?raw=true)
 
-                ### Hi there 👋, my name is Shahedul Islam
-                     #### I am Frontend Web Developer
+                                                                                # Hi there 👋, my name is Shahedul Islam
+                                                                                      ## I am Frontend Web Developer
 
 
 I'm a passionate Frontend Developer with expertise in HTML, CSS, JavaScript,react, and Tailwind CSS. I love building clean and user-friendly interfaces. My goal is to master frontend frameworks like React and contribute to open-source projects to help the developer community
