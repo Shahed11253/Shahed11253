@@ -1,4 +1,4 @@
-https://github.com/harun181/harun181/blob/main/code.png?raw=true
+<img src="https://github.com/harun181/harun181/blob/main/code.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Shahedul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
